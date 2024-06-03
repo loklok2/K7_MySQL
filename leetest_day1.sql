@@ -35,7 +35,7 @@ select code, name
 from country
 where indepyear >1900;
 -- 7. 영어가 공용어가 아니고 국민총생산(GNP)이 1,000보다 큰 국가의 이름을 검색합니다. 
--- select language, isofficial
+teltel-- select language, isofficial
 -- from countrylanguage
 -- where language = 'english' and isofficial = 'f'; 
 -- -- where language = 'english' and isofficial <>'f'; 
